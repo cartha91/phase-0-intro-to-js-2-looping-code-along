@@ -21,3 +21,4 @@ function writeCards(names, event) {
         number--; 
     }
   }
+  //second copy
